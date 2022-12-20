@@ -9,4 +9,4 @@ for i in range (c):
         if (score[j]>avg):
            cnt+=1
     result = cnt/n*100
-    print("{:.3f}%".format(result)) 
+    print("{:.3f}%".format(result)) #print(f'{result:.3f}%')
